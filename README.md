@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stojanovskit
-- 👀 I’m interested in dev 
+- 👀 I’m interested in development 
 - 🌱 I’m currently learning python
 - 📫 How to reach me email: stojanovskit@protonmail.com
 
